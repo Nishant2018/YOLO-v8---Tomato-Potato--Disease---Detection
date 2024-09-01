@@ -1,6 +1,6 @@
 # Tomato and Potato Disease Detection Using YOLOv8
 
-![Tomato and Potato Disease Detection](https://via.placeholder.com/600x400)
+![Tomato and Potato Disease Detection](https://github.com/Nishant2018/YOLO-v8---Tomato-Potato--Disease---Detection/blob/main/2.png)
 
 In this project, I trained a YOLOv8 model to detect diseases in tomato and potato plants. Accurate and timely detection of plant diseases is essential for effective crop management, and YOLOv8 offers the ability to perform real-time detection, making it a suitable choice for agricultural applications.
 

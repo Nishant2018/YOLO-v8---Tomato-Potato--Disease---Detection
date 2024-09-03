@@ -7,7 +7,7 @@ In this project, I trained a YOLOv8 model to detect diseases in tomato and potat
 ## Evaluation Metrics
 - **mAP (Mean Average Precision):** 33.2%
 - **Precision:** 45.2%
-- **Recall:** 33.0%
+- **Recall:** 33.0%   
 
 These metrics reflect the model's current performance in detecting tomato and potato diseases. With a precision of 45.2%, the model correctly identified 45.2% of the predicted disease instances, while the recall of 33.0% indicates that the model detected 33.0% of all actual diseased instances.
 

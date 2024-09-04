@@ -5,7 +5,7 @@
 In this project, I trained a YOLOv8 model to detect diseases in tomato and potato plants. Accurate and timely detection of plant diseases is essential for effective crop management, and YOLOv8 offers the ability to perform real-time detection, making it a suitable choice for agricultural applications.
 
 ## Evaluation Metrics
-- **mAP (Mean Average Precision):** 33.2%
+- **mAP (Mean Average Precision):** 33.2%   
 - **Precision:** 45.2%
 - **Recall:** 33.0%   
 

@@ -17,7 +17,7 @@ The YOLOv8 model was chosen for its capability to detect multiple disease sympto
 ## Training Process
 The model was trained on a dataset of tomato and potato plant images, including images of healthy plants and those affected by various diseases. Data augmentation techniques such as rotation, scaling, and color jittering were used to help the model generalize better. The training process aimed to strike a balance between underfitting and overfitting, with a focus on improving recall.
 
-## Results
+## Results   
 While the current results show that the model has room for improvement, achieving a mAP of 33.2% indicates that it can detect certain diseases under specific conditions. Further improvements could be achieved by expanding the dataset and refining the augmentation strategies.
 
 
